@@ -1,0 +1,15 @@
+.news-heading {
+    text-align: center;
+    margin: 15px 0;
+    color: #d45b5b;
+    letter-spacing: 2px;
+}
+
+.news-card {
+    margin-bottom: 20px;
+}
+
+.news-card img {
+    height: 150px;
+    object-fit: cover;
+}
